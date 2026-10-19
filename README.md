@@ -16,6 +16,7 @@ Je conçois et développe des applications web complètes : serveur, interface, 
 
 **Ce que je fais**
 - Applications web full-stack (back-end Python · front-end JavaScript · SQLite)
+- Développement TypeScript full-stack : Next.js, React, Prisma, API REST, auth JWT
 - PWA installables (service worker, manifest, i18n FR/EN/AR)
 - Packaging d'applications Python en exécutables Windows (PyInstaller)
 - Documentation et convention de code (design.md, conventions, tests)
@@ -26,7 +27,8 @@ Je conçois et développe des applications web complètes : serveur, interface, 
 <summary><b>🇬🇧 English</b></summary>
 
 Second-year Master's student in **Software Engineering & Information Systems** at **ENSA Kénitra** (Morocco).
-I build end-to-end web applications: server, interface, database and packaging.
+I build end-to-end web applications: server, interface, database and packaging —
+from Python back-ends to TypeScript full-stack (Next.js, Prisma, JWT).
 
 </details>
 
@@ -38,17 +40,19 @@ I build end-to-end web applications: server, interface, database and packaging.
 | --- | --- |
 | **Back-end** | Python (serveur HTTP multithread, JSON API), SQL / SQLite |
 | **Front-end** | HTML, CSS, JavaScript (vanilla), PWA |
+| **Full-stack TS** | Next.js 15, React, TypeScript strict, Prisma ORM, API REST, auth JWT |
 | **Web classique** | PHP · Laravel |
-| **Outils** | Git & GitHub, Linux, PyInstaller, Playwright, VS Code |
-| **Langages** | Python · JavaScript · PHP · SQL |
+| **Outils** | Git & GitHub, Docker, Linux, PyInstaller, Playwright, VS Code, Vitest |
+| **Langages** | Python · TypeScript · JavaScript · PHP · SQL |
 
 ## 📌 Projets
 
 | Projet | Description | État |
 | --- | --- | --- |
+| [devflow](https://github.com/Abderrahim-Allaoui/devflow) | Kanban SaaS full-stack : Next.js 15, Prisma, auth JWT, API REST, Docker — tests Vitest + README bilingue | 🌍 public |
 | [Littlelemon-Web-Application](https://github.com/Abderrahim-Allaoui/Littlelemon-Web-Application) | Site web du restaurant *Little Lemon* — projet de formation (Laravel) | 🌍 public |
 | [manageSchool](https://github.com/Abderrahim-Allaoui/manageSchool) | Application de gestion scolaire — front HTML/CSS | 🌍 public |
-| **CargoRentCar** | Gestion de location de voitures : contrats, facturation, PDF, i18n (FR/EN/AR), PWA, livrée en `.exe` portable | 🔒 privé |
+| **CargoRentCar** | Gestion de location de voitures : contrats, facturation, PDF, i18n (FR/EN/AR), PWA, livrée en `.exe` portable (source + build V3) | 🔒 privé |
 
 ## 🌍 Langues
 
