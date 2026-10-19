@@ -49,7 +49,7 @@ from Python back-ends to TypeScript full-stack (Next.js, Prisma, JWT).
 
 | Projet | Description | État |
 | --- | --- | --- |
-| [devflow](https://github.com/Abderrahim-Allaoui/devflow) | Kanban SaaS full-stack : Next.js 15, Prisma, auth JWT, API REST, Docker — tests Vitest + README bilingue | 🌍 public |
+| [devflow](https://github.com/Abderrahim-Allaoui/devflow) | Kanban SaaS full-stack : Next.js 15, Prisma, auth JWT, API REST, Docker — tests Vitest + README bilingue · [demo live](https://devflow-black-eight.vercel.app) | 🌍 public |
 | [Littlelemon-Web-Application](https://github.com/Abderrahim-Allaoui/Littlelemon-Web-Application) | Site web du restaurant *Little Lemon* — projet de formation (Laravel) | 🌍 public |
 | [manageSchool](https://github.com/Abderrahim-Allaoui/manageSchool) | Application de gestion scolaire — front HTML/CSS | 🌍 public |
 | **CargoRentCar** | Gestion de location de voitures : contrats, facturation, PDF, i18n (FR/EN/AR), PWA, livrée en `.exe` portable (source + build V3) | 🔒 privé |
