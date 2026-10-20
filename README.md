@@ -49,6 +49,7 @@ from Python back-ends to TypeScript full-stack (Next.js, Prisma, JWT).
 
 | Projet | Description | État |
 | --- | --- | --- |
+| [portfolio](https://github.com/Abderrahim-Allaoui/portfolio) | Outils data & lead gen B2B : scraper Google Maps, nettoyeur Excel/CSV, constructeur de listes de prospects (Python + Playwright) | 🌐 public |
 | [devflow](https://github.com/Abderrahim-Allaoui/devflow) | Kanban SaaS full-stack : Next.js 15, Prisma, auth JWT, API REST, Docker — tests Vitest + README bilingue · [démo live](https://devflow-black-eight.vercel.app) · [licence template](https://devflow-license.vercel.app) | 🌍 public |
 | [Littlelemon-Web-Application](https://github.com/Abderrahim-Allaoui/Littlelemon-Web-Application) | Site web du restaurant *Little Lemon* — projet de formation (Laravel) | 🌍 public |
 | [manageSchool](https://github.com/Abderrahim-Allaoui/manageSchool) | Application de gestion scolaire — front HTML/CSS | 🌍 public |
